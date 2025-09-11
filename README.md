@@ -5,9 +5,9 @@
 | No  | Nama             | NIM           | Peran   |
 | --- | ---------------- | ------------- | ------- |
 | 1   | Rausyanul Fikri  | 2024573010122 | Leader  |
-| 2   | [Nama Anggota 2] | [NIM]         | Anggota |
-| 3   | [Nama Anggota 3] | [NIM]         | Anggota |
-| 4   | [Nama Anggota 4] | [NIM]         | Anggota |
+| 2   | Tri Akmal        | 2024573010074 | Anggota |
+| 3   | Naiza Fitri      | 2024573010104 | Anggota |
+| 4   | Zuhratul Fazla   | 2024573010107 | Anggota |
 
 
 ---
@@ -61,10 +61,10 @@ Untuk itu, kami mengembangkan aplikasi **Sistem Peminjaman Kunci Kampus** yang m
 
 ## Link GitHub Anggota
 
-- **Leader:** [Rausyanul Fikri](https://github.com/rausyanul)  
-- **Anggota 2:** [Nama Anggota 2](https://github.com/anggota2)  
-- **Anggota 3:** [Nama Anggota 3](https://github.com/anggota3)  
-- **Anggota 4:** [Nama Anggota 4](https://github.com/anggota4)  
+- **Leader:** [Rausyanul Fikri](https://github.com/rosan-f)  
+- **Anggota 2:** [Tri Akmal](https://github.com/TriAkmal)  
+- **Anggota 3:** [Naiza Fitri](https://github.com/naizafitri)  
+- **Anggota 4:** [Zuhratul Fazla](https://github.com/fazla2601)  
   
 ---
 
